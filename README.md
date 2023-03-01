@@ -1,6 +1,5 @@
 # Sudoku_Solver
 
-In this sudoku solver, Here i have use Html, css and Javascript!! This is the one of the most important example of Backtracking in Data structure and Algorithm, in this Project I have described Sudoku solver Game. I have solved it using backtracking approach!!
-
+Javascript, HTML, and CSS are all used in this sudoku solver. This is one of the most significant instances of backtracking in data structures and algorithms that I have covered in this project, along with the Sudoku solver game. I used a backtracking strategy to solve it!
 
 Take a look at live version :  https://dlk122.github.io/Sudoku_Solver/
