@@ -4,4 +4,4 @@ In this sudoku solver, Here i would use Html, css and Javascript!! This is the o
 
 Here The Comnplexity of the code is exponential and Space Comolexity is Constant. It is solved in C++ Programming language!!
 
-To get the idea on it :
+To get the idea on it :  https://dlk122.github.io/Sudoku_Solver/
